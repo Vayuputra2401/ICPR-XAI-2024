@@ -1,8 +1,8 @@
 # Enhanced Classification and Segmentation of Brain Tumors in MRI Images Using Custom CNN and U-Net Models with XAI
 
-> **Published at ICPR 2024 (Kolkata)**
+> **Published at ICPR 2024 **
 > Pathikreet Chowdhury and Gargi Srivastava
-> Rajiv Gandhi Institute of Petroleum Technology, Jais, Uttar Pradesh 229304, India
+
 
 ---
 
